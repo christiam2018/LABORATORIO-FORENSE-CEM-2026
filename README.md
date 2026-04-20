@@ -7,7 +7,13 @@ Este ejercicio incluye tutorial en youtube
 https://www.youtube.com/watch?v=uwM_Olu2zB4
 [README_FORENSE.md](https://github.com/user-attachments/files/26908487/README_FORENSE.md)
 TALLER FORENSE
+
+
  
+
+https://github.com/user-attachments/assets/f9feca92-4c70-4ead-bccf-55c343db6eb0
+
+
 # DESARROLLO DE EJERCICIO DE FORENSE
 
 ## Carga de evidencia en Autopsy
