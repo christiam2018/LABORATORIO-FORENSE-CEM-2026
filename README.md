@@ -1,3 +1,7 @@
+<img width="502" height="603" alt="NOMBRES" src="https://github.com/user-attachments/assets/906d8fd9-cb65-4f57-ba5b-7ca8fa17e592" />
+
+
+
 # LABORATORIO-FORENSE-CEM-2026
 Este ejercicio incluye tutorial en youtube
 https://www.youtube.com/watch?v=uwM_Olu2zB4
