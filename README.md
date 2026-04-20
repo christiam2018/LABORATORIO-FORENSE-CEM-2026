@@ -51,7 +51,7 @@ Luego se habilitaron distintos módulos de ingestión para apoyar el procesamien
 
 Esta fase es importante porque define las tareas automáticas que Autopsy ejecutará sobre la evidencia cargada.
 
-<img width="1058" height="677" alt="DATTA" src="https://github.com/user-attachments/assets/a45a4a99-187c-433d-8f74-098cedf2a9e4" />
+
 
 
 ---
@@ -60,7 +60,7 @@ Esta fase es importante porque define las tareas automáticas que Autopsy ejecut
 
 Al finalizar el procedimiento, la herramienta presentó un mensaje de error indicando que **no fue posible agregar la fuente de datos**, debido a errores críticos detectados durante la carga.
 
-![Error al agregar la fuente de datos](./img/04_error_carga.png)
+<img width="1918" height="1078" alt="Resultados" src="https://github.com/user-attachments/assets/ac90f26b-9371-4d11-8535-410cccebb97e" />
 
 ---
 
@@ -73,6 +73,7 @@ Con base en la secuencia observada, el fallo puede estar relacionado con una o v
 3. El archivo de entrada puede estar incompleto, corrupto o no ser compatible con la opción elegida.
 4. Puede existir un problema de permisos de lectura sobre la ruta seleccionada.
 5. Algún módulo de ingestión pudo generar conflicto durante el proceso inicial de carga.
+<img width="1918" height="1078" alt="Resultados2" src="https://github.com/user-attachments/assets/bc0bc4d2-3e72-4613-aa13-d956b8273e68" />
 
 ---
 
