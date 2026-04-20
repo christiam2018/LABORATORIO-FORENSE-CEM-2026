@@ -7,6 +7,7 @@ TALLER FORENSE
 # DESARROLLO DE EJERCICIO DE FORENSE
 
 ## Carga de evidencia en Autopsy
+<img width="1907" height="1007" alt="1" src="https://github.com/user-attachments/assets/7fcc38f3-722a-4a44-af71-7cdc0d19914c" />
 
 En el desarrollo del ejercicio se realizó el intento de incorporación de una nueva fuente de datos dentro de **Autopsy 4.22.1**, siguiendo el flujo de carga de una imagen de espacio no asignado para su posterior análisis forense.
 
