@@ -51,7 +51,8 @@ Luego se habilitaron distintos módulos de ingestión para apoyar el procesamien
 
 Esta fase es importante porque define las tareas automáticas que Autopsy ejecutará sobre la evidencia cargada.
 
-![Configuración de ingestión](./img/03_configure_ingest.png)
+<img width="1058" height="677" alt="DATTA" src="https://github.com/user-attachments/assets/a45a4a99-187c-433d-8f74-098cedf2a9e4" />
+
 
 ---
 
