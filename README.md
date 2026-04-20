@@ -26,7 +26,8 @@ En esta fase se eligió la opción **Unallocated Space Image File**, la cual per
 
 Posteriormente, se avanzó al apartado de selección de la fuente de datos, donde se configuró la ruta de entrada, la zona horaria correspondiente a **America/Bogota** y la opción de fragmentación de la imagen en bloques de **2 GB**.
 
-![Selección de la fuente de datos](./img/02_seleccion_archivo.png)
+<img width="1917" height="1012" alt="3" src="https://github.com/user-attachments/assets/bb876322-ef27-451b-9699-a11ea8e01dee" />
+
 
 ---
 
