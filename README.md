@@ -17,7 +17,8 @@ En el desarrollo del ejercicio se realizó el intento de incorporación de una n
 
 En esta fase se eligió la opción **Unallocated Space Image File**, la cual permite trabajar con imágenes forenses orientadas al análisis de espacio no asignado dentro del medio digital.
 
-![Selección del tipo de fuente de datos](./img/01_tipo_fuente.png)
+<img width="1918" height="1018" alt="2" src="https://github.com/user-attachments/assets/b085eae8-0159-4ea8-a89a-568b81cd8b37" />
+
 
 ---
 
